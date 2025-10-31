@@ -1,6 +1,6 @@
 # PemrogramanMob2-TIFK23B
-# Derian 
+# Derian, 
 
-# Kelas : TIF K 23B
+# Kelas : TIF K 23B,
 
 # NIM : 23552011114
