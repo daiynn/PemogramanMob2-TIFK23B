@@ -1,5 +1,5 @@
 name: aplikasi_joki_flutter
-description: "A new Flutter project."
+description: "Flutter project."
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -30,3 +30,4 @@ flutter:
     - assets/gold and glory.jpg
     - assets/honkai.jpg
     - assets/wuthering.jpg
+
